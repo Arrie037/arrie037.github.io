@@ -9,21 +9,22 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone:Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Record of one period # the main title
+title: Arrie # the main title
 
-tagline: ALL FOR MYSELF # it will display as the subtitle
+tagline: A student blog about coding, AI, and life at SJTU.
+# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Hi,this is my bolg.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://arrie037.github.io"
 
 github:
   username: Arrie # change to your GitHub username
@@ -34,12 +35,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yingzhu Wang
+  name: Arrie
   email: arrie.wyzzz@sjtu.edu.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/arrie037# change to your GitHub homepage
+    #- https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/arrie037 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:avatar: /assets/img/cat.jpg   # ← 把你的头像放这里
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
