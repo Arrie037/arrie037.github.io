@@ -16,11 +16,11 @@ timezone:
 
 title: Arrie # the main title
 
-tagline: A student blog about coding, AI, and life at SJTU.
+tagline: thought,trial
 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Hi,this is my bolg.
+  (not) for JY.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
