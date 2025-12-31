@@ -49,5 +49,13 @@ It took me a long time to untangle myself from that irreplaceable chapter. Since
 **I severed ties with Camus and adopted Kafka as my spiritual teacher.**
 
 Yet, fortunately, within this labyrinthine castle, I managed to find a few climbing holds—small, but enough to grip.
-I discovered a new sport. I joined a research group and began my first-ever research project. I’m trying to make up for the wasteland of the past year. And I wonder: if I first strengthen my inner world—if I let it grow rich and resilient—then return to exploring the world… might that be better?
+This year I unlocked a new sport: climbing, and discovered that I am afraid of heights. My favorite part of climbing is bouldering—no protection, just gripping holds to climb up to a height of about four meters. This sport is dangerous, but I love it very much.
+
+Every time I stop at a hold, my arm muscles nearly cramping, my legs going weak as I look down, I can only cling as tightly as possible to the one hold I have left. It makes me feel like Sisyphus.
+
+This year, some people described me as lacking sharpness—always picking options instead of truly doing something. I think they’re right. Bouldering reflects my personality: when I get stuck on a hold, I dare not try; I often climb back down sheepishly, only to realize I still had strength left.
+
+But once I learn the proper way to fall, I hope I’ll be able to leap boldly,and catch the top.
+
+In a nutshell,this year I discovered a new sport. I joined a research group and began my first-ever research project. I’m trying to make up for the wasteland of the past year. And I wonder: if I first strengthen my inner world—if I let it grow rich and resilient—then return to exploring the world… might that be better?
 
