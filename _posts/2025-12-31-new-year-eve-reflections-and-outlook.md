@@ -2,13 +2,9 @@
 layout: post
 title: New Year Eve,Reflections and Outlook
 date: 2025-12-31
-categories:[Marginalia]
-tags:[ME][Hopes left unfinished]
-description:We are animals who need holidays.
-
-One orbit of the Earth—utterly mundane in the cosmic silence—passes again.
-
-And still, we descendants of apes light candles, raise our voices, and pray for every tomorrow that fate remains unseen.
+categories: [Marginalia]
+tags: [ME] [Hopes left unfinished]
+description: We are animals who need holidays.One orbit of the Earth—utterly mundane in the cosmic silence—passes again.And still, we descendants of apes light candles, raise our voices, and pray for every tomorrow that fate remains unseen.
 ---
 
 Due to my limited English writing ability, the article below is an AI translation of my original Chinese text.
