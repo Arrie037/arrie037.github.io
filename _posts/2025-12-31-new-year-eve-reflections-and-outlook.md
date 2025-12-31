@@ -38,7 +38,7 @@ We once shared a dream (different from my own ideal), yet became strangers to ea
 The agony of watching helplessly from the shore has burned in me ever since.
 It took me a long time to untangle myself from that irreplaceable chapter. Since then, I’ve been alone.
 
-3. **November 21**—After a run, I learned a close friend would leave SJTU. I sat by the soccer goal at Nan Ti and spent half an hour on the phone with another friend, cursing the university I’d defended against all advice. Perhaps it was the heavy night dew—but the following evening, I spiked a fever of 39°C.
+3. **November 21**—After a run, I learned a close friend would leave SJTU. I sat by the soccer goal at playground and spent half an hour on the phone with another friend, cursing the university I’d defended against all advice. Perhaps it was the heavy night dew—but the following evening, I spiked a fever of 39°C.
 
 4. **December 31**—today—I heard that a teacher full of educational ideals is leaving due to the university’s “publish or perish” policy. I nearly cried. At my most lost, he showed me direction and gave me the strength to move forward.
 
