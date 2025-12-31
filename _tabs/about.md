@@ -16,18 +16,18 @@ Though I often feel pessimistic, believing the world is getting worse (or perhap
 
 And it all starts here.
 
-# focus
+# Focus
 A glimpse into what I’m aiming to achieve, along with a single sentence that captures where I stand right now.
 
-## Goals
+### Goals
 
-### Booklist
+#### Booklist
 - [ ] Linear Algebra and Optimization
 - [ ] Elements of Information Theory
 - [ ] Thinking,Fast,and Slow
 
-### Course
+#### Course
 - [ ] CS50’s Introduction to AI with Python
 
-## Summary
+### Summary
 - [ ] “Until you make the unconscious conscious, it will direct your life and you will call it fate.”
